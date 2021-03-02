@@ -7,6 +7,6 @@ I am 21 years old. I really like watching anime, playing video games 👾 and th
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22d42mz6d65glglhnf3jgctli&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22d42mz6d65glglhnf3jgctli&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile))
 
 
