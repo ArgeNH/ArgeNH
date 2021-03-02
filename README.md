@@ -7,7 +7,7 @@ I am 21 years old. I currently live in Nobsa, Colombia. I really like watching a
 
 ---
 
-#### My Spotify List 🎶
+#### Music 🎶
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22d42mz6d65glglhnf3jgctli&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=22d42mz6d65glglhnf3jgctli&redirect=true)
 
