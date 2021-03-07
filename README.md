@@ -3,9 +3,9 @@
 ---
 <h4 color="">Hi Everyone 👨🏻‍💻</h4>
 
-<div align="center">
+<p align="center">
     <img src="https://media.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif" width="300"/>
-</div>
+</p>
 
 ---
 
@@ -20,7 +20,7 @@ Pedagogical University of Colombia. I am currently in seventh semester.
 
 I am 21 years old. I currently live in Nobsa, Colombia. I really like watching
 anime, playing video games 👾 and the cats, for now I have 3 of
-them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" />
+them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="18" />
 </p>
 
 </div>
@@ -41,10 +41,10 @@ them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hype
 <h3 align="center">Social Networks 📱</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/argeni%C3%B1o/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="8%"/></a>
-    <a href="https://twitter.com/NinoArge"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="8%"/></a>
-    <a href="https://www.instagram.com/arge.nino/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="8%"/></a>
-    <a href="https://www.facebook.com/arge.nino"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="8%"/></a>
+    <a href="https://www.linkedin.com/in/argeni%C3%B1o/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/></a>
+    <a href="https://twitter.com/NinoArge"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/></a>
+    <a href="https://www.instagram.com/arge.nino/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3%"/></a>
+    <a href="https://www.facebook.com/arge.nino"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3%"/></a>
 </p>
 
 ---
