@@ -41,11 +41,3 @@ them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hype
     <a href="https://www.instagram.com/arge.nino/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/></a>
     <a href="https://www.facebook.com/arge.nino"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/></a>
 </p>
-
----
-
-<h3 align="center">Karma</h3>
-
-[![Source Karma badge for @ArgeNH](https://sourcekarma-og.vercel.app/api/ArgeNH/github)](https://sourcekarma.vercel.app/ArgeNH)
-
-
