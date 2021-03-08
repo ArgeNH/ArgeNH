@@ -26,14 +26,9 @@ them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hype
 </div>
 
 ---
-<h3 align="center">Github stats and Skills 🛸</h3>
+<h3 align="center">Github stats🛸</h3>
 
 <p align="center">
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40">
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40"/>
-    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40">
-    <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenh&layout=compact&theme=tokyonight" />
 </p>
 
@@ -41,16 +36,16 @@ them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hype
 <h3 align="center">Social Networks 📱</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/argeni%C3%B1o/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/></a>
-    <a href="https://twitter.com/NinoArge"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/></a>
-    <a href="https://www.instagram.com/arge.nino/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3%"/></a>
-    <a href="https://www.facebook.com/arge.nino"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3%"/></a>
+    <a href="https://www.linkedin.com/in/argeni%C3%B1o/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/></a>
+    <a href="https://twitter.com/NinoArge"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/></a>
+    <a href="https://www.instagram.com/arge.nino/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/></a>
+    <a href="https://www.facebook.com/arge.nino"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/></a>
 </p>
 
 ---
 
-<h3 align="center">Music 🎶</h3>
+<h3 align="center">Karma</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22d42mz6d65glglhnf3jgctli&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=22d42mz6d65glglhnf3jgctli&redirect=true)
+[![Source Karma badge for @ArgeNH](https://sourcekarma-og.vercel.app/api/ArgeNH/github)](https://sourcekarma.vercel.app/ArgeNH)
 
 
