@@ -1,13 +1,6 @@
 <h1 align="center">💠 Ａｒｇｅ  Ｎｉñｏ 💠</h1>
 
 ---
-<h4 color="">Hi Everyone 👨🏻‍💻</h4>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif" width="300"/>
-</p>
-
----
 
 <div>
 
