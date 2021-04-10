@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/IO2ICudgtBjby/giphy.gif" width="250" align="right"/>
 
 <p align="left">
-I am an engineering student, wanting to learn about web development. 👨🏻‍💻 I
+I am an engineering student, waiting to learn about web development. 👨🏻‍💻 I
 am studying Systems and Computing Engineering at the Technological and
 Pedagogical University of Colombia. I am currently in seventh semester.
 
