@@ -32,7 +32,6 @@ them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hype
     <a href="https://www.linkedin.com/in/argeni%C3%B1o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/NinoArge"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/arge.nino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-     <a href="https://discord.gg/d6Ah2sWKjf"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <h3 align="center">Skills 🌌</h3>
