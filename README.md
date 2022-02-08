@@ -29,7 +29,7 @@ them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hype
 <h3 align="center">Social Networks 📱</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/argeni%C3%B1o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/argenino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/NinoArge"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/arge.nino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
