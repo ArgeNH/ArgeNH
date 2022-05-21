@@ -3,9 +3,6 @@
 ---
 
 <div>
-
-<img src="https://media.giphy.com/media/IO2ICudgtBjby/giphy.gif" width="250" align="right"/>
-
 <p align="left">
 I am an engineering student, waiting to learn about web development. 👨🏻‍💻 I
 am studying Systems and Computing Engineering at the Technological and
