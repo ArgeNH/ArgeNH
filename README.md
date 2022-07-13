@@ -3,15 +3,28 @@
 ---
 
 <div>
-<p align="left">
-I am an engineering student, waiting to learn about web development. 👨🏻‍💻 I
-am studying Systems and Computing Engineering at the Technological and
-Pedagogical University of Colombia. I am currently in nineth semester.
 
-I am 22 years old. I currently live in Nobsa, Colombia. I really like watching
-anime, playing video games 👾 and the cats, for now I have 2 of
-them. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="18" />
-</p>
+```ts
+const aboutMe: Arge = {
+    pronouns: ['he', 'him'],
+    code: ['JavaScript', 'TypeScript', 'HTML', 'Java', 'Python'],
+    tecnologies: {
+        frontend: {
+            js: ['React', 'Next.js'],
+            css: ['TailwindCSS', 'NextUI']
+        },
+        backend: {
+            js: ['NodeJS', 'Express', 'Jest', 'JWT'],
+            dataBase: ['MongoDB', 'mySQL', 'PostgreSQL']
+        }
+    },
+    tools: ['VsCode', 'Git', 'GitHub', 'PostMan'],
+    currentOccupation: 'I am a Developer/Student, open for a job opportunities',
+    challenge: 'I’m currently learning: Docker, NestJS, React Native and more',
+    language: ['Spanish (native)', 'English (limited)'],
+    hobbies: ['Coding 🧑🏻‍💻', 'Anime 🏯', 'Videogames 🎮', 'Music 🎶', 'Traveling ✈️'],
+}
+```
 
 </div>
 
