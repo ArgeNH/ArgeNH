@@ -15,11 +15,11 @@ const aboutMe: Arge = {
         },
         backend: {
             js: ['NodeJS', 'Express', 'Jest', 'JWT'],
-            dataBase: ['MongoDB', 'mySQL', 'PostgreSQL']
+            dataBase: ['MongoDB', 'mySQL', 'PostgreSQL', 'Prisma']
         }
     },
     tools: ['VsCode', 'Git', 'GitHub', 'PostMan'],
-    currentOccupation: 'I am a Developer/Student, open for a job opportunities',
+    currentOccupation: 'I am a Developer/Student, I work as a junior programmer at Seguridad Penta',
     challenge: 'I’m currently learning: Docker, NestJS, React Native and more',
     language: ['Spanish (native)', 'English (limited)'],
     hobbies: ['Coding 🧑🏻‍💻', 'Anime 🏯', 'Videogames 🎮', 'Music 🎶', 'Traveling ✈️'],
