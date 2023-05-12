@@ -10,17 +10,17 @@ const aboutMe: Arge = {
     code: ['JavaScript', 'TypeScript', 'HTML', 'Java', 'Python'],
     tecnologies: {
         frontend: {
-            js: ['React', 'Next.js', 'ElectronJS'],
+            js: ['React', 'Next.js', 'ElectronJS', 'React Native'],
             css: ['TailwindCSS', 'NextUI', 'MaterialUI']
         },
         backend: {
-            js: ['NodeJS', 'Express', 'Jest', 'JWT'],
-            dataBase: ['MongoDB', 'mySQL', 'PostgreSQL', 'Prisma']
+            js: ['NodeJS', 'Express', 'FastApi', 'JWT'],
+            dataBase: ['MongoDB', 'SQL', 'PostgreSQL', 'Prisma']
         }
     },
-    tools: ['VsCode', 'Git', 'GitHub', 'PostMan'],
+    tools: ['VsCode', 'Git', 'GitHub', 'Postman'],
     currentOccupation: 'I am a Developer/Student, I work as a junior programmer at Seguridad Penta',
-    challenge: 'I’m currently learning: Docker, NestJS, React Native and more',
+    challenge: 'I’m currently learning: Docker, NestJS and more',
     language: ['Spanish (native)', 'English (limited)'],
     hobbies: ['Coding 🧑🏻‍💻', 'Anime 🏯', 'Videogames 🎮', 'Music 🎶', 'Traveling ✈️'],
 }
