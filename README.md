@@ -40,8 +40,11 @@ const aboutMe: Arge = {
 
 <p align="center">
     <a href="https://www.linkedin.com/in/argenino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/NinoArge"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/arge_nino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/arge.nino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    
+    
+    
 </p>
 
 <h3 align="center">Skills 🌌</h3>
@@ -54,3 +57,7 @@ const aboutMe: Arge = {
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+---
+
+[![Visits](https://komarev.com/ghpvc/?username=argenh&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/argenh)
