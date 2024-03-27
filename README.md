@@ -31,9 +31,9 @@ const aboutMe: Arge = {
 ---
 <h3 align="center">Github stats🛸</h3>
 
-<p align="center">
-   <a href="https://github.com/argenh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=argenh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/argenh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenh&layout=compact&theme=buefy&hide_border=true" /></a> |
-</p>
+    
+| <a href="https://github.com/argenh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=argenh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/argenh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 <h3 align="center">Social Networks 📱</h3>
