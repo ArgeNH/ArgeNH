@@ -12,7 +12,7 @@ const aboutMe: Arge = {
     code: ['JavaScript', 'TypeScript', 'HTML', 'Java', 'Python'],
     tecnologies: {
         frontend: {
-            js: ['React', 'Next.js', 'ElectronJS', 'React Native'],
+            js: ['React', 'Next.js', 'ElectronJS', 'React Native', 'Gatsby'],
             css: ['TailwindCSS', 'NextUI', 'MaterialUI']
         },
         backend: {
