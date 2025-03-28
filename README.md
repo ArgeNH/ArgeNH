@@ -12,7 +12,7 @@ const aboutMe: Arge = {
     code: ['JavaScript', 'TypeScript', 'HTML', 'Java', 'Python'],
     tecnologies: {
         frontend: {
-            js: ['React', 'Next.js', 'ElectronJS', 'React Native', 'Gatsby'],
+            js: ['React', 'Next.js', 'ElectronJS', 'React Native', 'Gatsby', 'Shopify'],
             css: ['TailwindCSS', 'NextUI', 'MaterialUI']
         },
         backend: {
@@ -41,12 +41,10 @@ const aboutMe: Arge = {
 <h3 align="center">Social Networks 📱</h3>
 
 <p align="center">
+    <a href="https://argenh.dev/"><img src="https://img.shields.io/badge/website-%233867D6.svg?style=for-the-badge"/></a>
     <a href="https://www.linkedin.com/in/argenino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/arge_nino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/arge.nino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    
-    
-    
+    <a href="https://www.instagram.com/arge.nino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
 </p>
 
 <h3 align="center">Skills 🌌</h3>
